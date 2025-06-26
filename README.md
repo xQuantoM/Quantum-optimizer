@@ -51,10 +51,9 @@ At the top of the `quantum-optimize.sh` script, you can adjust these variables:
 
 1.  **Download the Script:**
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
-    # OR
-    # wget https://raw.githubusercontent.com/yourusername/your-repo-name/main/quantum-optimize.sh
+    git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/xQuantoM/Quantum-optimizer)
+    cd Quantum-optimizer
+    
     ```
 
 2.  **Review the Script (Recommended!):**
