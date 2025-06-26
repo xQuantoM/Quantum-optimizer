@@ -61,12 +61,12 @@ At the top of the `quantum-optimize.sh` script, you can adjust these variables:
 
 3.  **Make it Executable:**
     ```bash
-    chmod +x quantum-optimize.sh
+    chmod +x qunatum-optimize.sh
     ```
 
 4.  **Run the Script as Root:**
     ```bash
-    sudo ./quantum-optimize.sh
+    sudo ./qunatum-optimize.sh
     ```
 
 5.  **Follow Post-Script Recommendations:**
